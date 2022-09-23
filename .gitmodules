@@ -34,3 +34,6 @@
 [submodule "modules/DroneCAN/libcanard"]
 	path = modules/DroneCAN/libcanard
 	url = https://github.com/DroneCAN/libcanard
+[submodule "Tools/autotest/aircraft/X8"]
+	path = Tools/autotest/aircraft/X8
+	url = git@uavlab.itk.ntnu.no:uavlab/x8_jsbsim.git
